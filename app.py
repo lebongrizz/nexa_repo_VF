@@ -80,7 +80,7 @@ def check_password():
 
         st.markdown("""
         <div style='text-align:center; color:#718096; font-size:0.85rem; margin-top:1rem'>
-        Comptes de démo : <b>admin</b> / admin123 &nbsp;|&nbsp; <b>demo</b> / demo2024
+        Comptes de démo : <b>admin</b> / admin &nbsp;|&nbsp; <b>demo</b> / demo
         </div>
         """, unsafe_allow_html=True)
     return False
