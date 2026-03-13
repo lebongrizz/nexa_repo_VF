@@ -22,9 +22,8 @@ L'application sera disponible sur `http://localhost:8501`
 **Comptes de démonstration :**
 | Utilisateur | Mot de passe |
 |-------------|-------------|
-| admin | admin123 |
-| demo | demo2024 |
-| actuaire | actuaire! |
+| admin | admin |
+| demo | demo |
 
 ---
 
