@@ -1,0 +1,21 @@
+2026-03-13 11:58:54 | INFO | Connexion réussie | utilisateur=admin
+2026-03-13 11:58:57 | INFO | Consentement RGPD accepté
+2026-03-13 11:58:57 | INFO | Page consultée : Dashboard
+2026-03-13 12:04:11 | INFO | Page consultée : Simulateur
+2026-03-13 12:04:13 | INFO | Page consultée : Modèle & Biais
+2026-03-13 12:04:17 | INFO | Page consultée : RGPD
+2026-03-13 12:04:20 | INFO | Page consultée : Dashboard
+2026-03-13 12:19:58 | INFO | Page consultée : Simulateur
+2026-03-13 12:20:00 | INFO | Page consultée : Modèle & Biais
+2026-03-13 12:20:03 | INFO | Déconnexion | utilisateur=admin
+2026-03-13 12:20:08 | INFO | Connexion réussie | utilisateur=admin
+2026-03-13 12:20:08 | INFO | Page consultée : Dashboard
+2026-03-13 12:25:15 | INFO | Déconnexion | utilisateur=admin
+2026-03-13 12:25:23 | INFO | Connexion réussie | utilisateur=admin
+2026-03-13 12:25:23 | INFO | Page consultée : Dashboard
+2026-03-13 12:25:27 | INFO | Déconnexion | utilisateur=admin
+2026-03-13 12:25:32 | WARNING | Tentative de connexion échouée | utilisateur=admin
+2026-03-13 15:53:20 | INFO | Connexion réussie | utilisateur=admin
+2026-03-13 15:54:08 | INFO | Connexion réussie | utilisateur=admin
+2026-03-13 15:54:09 | INFO | Consentement RGPD accepté
+2026-03-13 15:54:09 | INFO | Page consultée : Dashboard
